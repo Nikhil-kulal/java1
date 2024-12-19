@@ -50,7 +50,5 @@ public class TestShape {
 			System.out.println("-----------------");
 		}
 	}
-//Develop a Java program to create a class named Shape. Create 2 classes - Circle, Triangle, Square
-//Each class has 2 member functions draw() and erase(). Demonstrate polymorphism by developing
-//suitable methods 
+
 }
