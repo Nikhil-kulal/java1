@@ -54,10 +54,3 @@ public class TestMyPoint {
 		System.out.println(p2);
 	}
 }
-// A class called MyPoint which models a 2D point with x and y coordinates as follows
-// 2 instance variables int x and int y
-// A default no-arg constructor that defines a point at (0,0)
-//Overloaded constructor that defines a point at (x,y)
-//methods setXY() and getXY()
-//methods distance(), distance(MyPoint another)
-//develop the code for class MyPoint. Develop TestPoint to test all methods in the class
